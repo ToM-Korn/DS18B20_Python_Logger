@@ -1,4 +1,5 @@
 Simple Temp Logger in Degree Celsius with Arduino and Python with a DS18B20 digital OneWire Temperature Sensor
+
 Usage:
 - simple logging: python temp_logger.py
   -- saves all data in db to excel and graph and starts logging from scratch
